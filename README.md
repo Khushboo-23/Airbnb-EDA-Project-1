@@ -5,3 +5,13 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
 
 The main motive of this is to identify the parameters that influence property listings on the platform. We will basic exploratory data analysis (EDA) techniques to explore and visualise the dataset from Airbnb in NYC. This dataset will help us to find the distribution  of every Airbnb listing based on its location , price , reviews , room type ,etc. We together examined this data from various perspective and ideas , also came up with some of the other interesting findings. This will help Airbnb’s marketing , finance and technical teams in making strategic data-driven decisions .
+
+
+For complete project video explaination and to downoad the dataset: https://drive.google.com/drive/folders/1vsfUN9Ia_bf7FIQ8ZcYyuzqpjCrVrk3F?usp=sharing
+
+Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
+
+Connect with me on https://www.linkedin.com/in/khushboo-khanrah
+
+Happy Learning!
+
